@@ -1,5 +1,6 @@
 # nodejs-game-server
 
+バックエンドメイン言語：
 ゲームdemo　url: http://45.32.47.119/godot/demo.html
 
 db.js is the database node
